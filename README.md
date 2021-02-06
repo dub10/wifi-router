@@ -9,9 +9,12 @@ XRP - RIPPLE
 XLM - STELLAR COIN
 
 # web links 
+
 https://btc.com/ 
- https://etheruem.io/
- 
+
+https://etheruem.io/
+
 https://xrp.io
- https://xlm.io
+ 
+https://xlm.io
 
